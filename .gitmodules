@@ -1,0 +1,3 @@
+[submodule "foundrySigner/lib/openzeppelin-contracts"]
+	path = foundrySigner/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
